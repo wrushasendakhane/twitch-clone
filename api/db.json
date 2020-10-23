@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "Redhawk",
+      "description": "Learn Basics of React",
+      "id": 1
+    },
+    {
+      "title": "My own stream",
+      "description": "lets learn some redux",
+      "id": 2
+    },
+    {
+      "title": "my 2nd stream",
+      "description": "lets learn some JS",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "title": "My Streaming component reuse changed",
+      "description": "Watch me refactor some components",
+      "id": 5
+    }
+  ]
+}
